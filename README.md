@@ -15,4 +15,4 @@
 
 ## Recordings
 
-- [Session 1 - 22/05/2023](recordings/session01.mp4)
+- [Session 1 - 22/05/2023](https://github.com/ensc-fc/ai4d2023/raw/main/recordings/session01.mp4)

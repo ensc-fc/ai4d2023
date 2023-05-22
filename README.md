@@ -12,3 +12,7 @@
 - [Training models](https://www.bpesquet.fr/mlhandbook/fundamentals/training_models.html)
 - [Artificial neural networks](https://www.bpesquet.fr/mlhandbook/algorithms/artificial_neural_networks.html)
 - [Machine Learning issues](https://www.bpesquet.fr/mlhandbook/engineering/machine_learning_issues.html)
+
+## Recordings
+
+- [Session 1 - 22/05/2023](recordings/session01.mp4)

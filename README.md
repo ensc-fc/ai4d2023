@@ -11,11 +11,18 @@
 - [Assessing results](https://www.bpesquet.fr/mlhandbook/fundamentals/assessing_results.html)
 - [Training models](https://www.bpesquet.fr/mlhandbook/fundamentals/training_models.html)
 - [Artificial neural networks](https://www.bpesquet.fr/mlhandbook/algorithms/artificial_neural_networks.html)
+- [Convolutional Neural Networks](https://www.bpesquet.fr/mlhandbook/algorithms/convolutional_neural_networks.html)
 - [Machine Learning issues](https://www.bpesquet.fr/mlhandbook/engineering/machine_learning_issues.html)
 
 ## Activities (*katas*)
 
 - [Heart disease](https://www.bpesquet.fr/mlkatas/training/heart_disease.html)
+- [Fashion-MNIST](https://www.bpesquet.fr/mlkatas/training/fashion_mnist.html)
+- [Titanic](https://www.bpesquet.fr/mlkatas/training/titanic.html)
+
+## Application to Defence
+
+- Android malware dataset (authored by Suleiman Yerima): [data](data/drebin-215-dataset-5560malware-9476-benign.csv), [feature categories](data/dataset-features-categories.csv).
 
 ## Notebook execution platforms
 

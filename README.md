@@ -42,3 +42,5 @@
 - [Session 03 - 25/05/2023](https://github.com/ensc-fc/ai4d2023/raw/main/recordings/session03.mp4)
 - [Session 04 - 26/05/2023](https://github.com/ensc-fc/ai4d2023/raw/main/recordings/session04.mp4)
 - [Session 05 - 30/05/2023](https://github.com/ensc-fc/ai4d2023/raw/main/recordings/session05.mp4)
+- [Session 06 - 01/06/2023](https://github.com/ensc-fc/ai4d2023/raw/main/recordings/session06.mp4)
+- [Session 07 - 05/06/2023](https://github.com/ensc-fc/ai4d2023/raw/main/recordings/session07.mp4)

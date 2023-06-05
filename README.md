@@ -16,13 +16,13 @@
 
 ## Activities (*katas*)
 
-- [Heart disease](https://www.bpesquet.fr/mlkatas/training/heart_disease.html)
+- [Heart disease](https://www.bpesquet.fr/mlkatas/training/heart_disease.html) ([teacher version](activities/heart_disease.ipynb))
 - [Fashion-MNIST](https://www.bpesquet.fr/mlkatas/training/fashion_mnist.html)
 - [Titanic](https://www.bpesquet.fr/mlkatas/training/titanic.html)
 
 ## Application to Defence
 
-- Android malware dataset (authored by Suleiman Yerima): [data](data/drebin-215-dataset-5560malware-9476-benign.csv), [feature categories](data/dataset-features-categories.csv).
+- Android malware dataset (authored by Suleiman Yerima): [overview](https://www.kaggle.com/datasets/shashwatwork/android-malware-dataset-for-machine-learning), [data](data/drebin-215-dataset-5560malware-9476-benign.csv), [feature categories](data/dataset-features-categories.csv).
 
 ## Notebook execution platforms
 

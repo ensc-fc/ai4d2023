@@ -47,3 +47,8 @@
 - [Session 07 - 05/06/2023](https://github.com/ensc-fc/ai4d2023/raw/main/recordings/session07.mp4)
 - [Session 08 - 06/06/2023](https://drive.google.com/file/d/1U4prcBi9rcwsHWaqVYli6VMZJps8xz9H/view?usp=drive_link)
 - [Session 09 - 08/06/2023](https://drive.google.com/file/d/1Quv3Hds7ztczelnlKDfXS4FRiSpYJ93A/view?usp=drive_link)
+
+## Evaluations
+
+- [Questionnaire](https://e7u7nqv7tnb.typeform.com/to/aqsGHtTF)
+- [Assessment](https://app.wooclap.com/ECMTJU/questionnaires/647f38063c74760e05029476)

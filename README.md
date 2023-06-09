@@ -45,8 +45,8 @@
 - [Session 05 - 30/05/2023](https://github.com/ensc-fc/ai4d2023/raw/main/recordings/session05.mp4)
 - [Session 06 - 01/06/2023](https://github.com/ensc-fc/ai4d2023/raw/main/recordings/session06.mp4)
 - [Session 07 - 05/06/2023](https://github.com/ensc-fc/ai4d2023/raw/main/recordings/session07.mp4)
-- [Session 08 - 06/06/2023](https://drive.google.com/file/d/1U4prcBi9rcwsHWaqVYli6VMZJps8xz9H/view?usp=drive_link)
-- [Session 09 - 08/06/2023](https://drive.google.com/file/d/1Quv3Hds7ztczelnlKDfXS4FRiSpYJ93A/view?usp=drive_link)
+- [Session 08 - 06/06/2023](https://filesender.renater.fr/?s=download&token=32513b81-0e8a-4c6c-ab0e-55b2676ed3a8)
+- [Session 09 - 08/06/2023](https://filesender.renater.fr/?s=download&token=9ea12860-fd54-46a1-aa11-94ee5cce7846)
 
 ## Evaluations
 

@@ -13,6 +13,7 @@
 - [Artificial neural networks](https://www.bpesquet.fr/mlhandbook/algorithms/artificial_neural_networks.html)
 - [Convolutional Neural Networks](https://www.bpesquet.fr/mlhandbook/algorithms/convolutional_neural_networks.html)
 - [Machine Learning issues](https://www.bpesquet.fr/mlhandbook/engineering/machine_learning_issues.html)
+- [AI for Defence](https://www.bpesquet.fr/slides/ai-for-defence/)
 
 ## Activities (*katas*)
 

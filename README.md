@@ -23,7 +23,7 @@
 
 ## Application to Defence
 
-- Android malware dataset (authored by Suleiman Yerima): [overview](https://www.kaggle.com/datasets/shashwatwork/android-malware-dataset-for-machine-learning), [data](data/drebin-215-dataset-5560malware-9476-benign.csv), [feature categories](data/dataset-features-categories.csv).
+- Android malware dataset (authored by Suleiman Yerima): [overview](https://www.kaggle.com/datasets/shashwatwork/android-malware-dataset-for-machine-learning), [data](data/drebin-215-dataset-5560malware-9476-benign.csv), [feature categories](data/dataset-features-categories.csv), [code](activities/android_malware.ipynb).
 
 ## Notebook execution platforms
 

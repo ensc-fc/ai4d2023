@@ -47,6 +47,7 @@
 - [Session 07 - 05/06/2023](https://github.com/ensc-fc/ai4d2023/raw/main/recordings/session07.mp4)
 - [Session 08 - 06/06/2023](https://filesender.renater.fr/?s=download&token=32513b81-0e8a-4c6c-ab0e-55b2676ed3a8)
 - [Session 09 - 08/06/2023](https://filesender.renater.fr/?s=download&token=9ea12860-fd54-46a1-aa11-94ee5cce7846)
+- [Session 10 - 09/06/2023](https://filesender.renater.fr/?s=download&token=248dcfa7-86d1-4794-af61-7a442194785f)
 
 ## Evaluations
 
